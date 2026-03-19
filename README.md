@@ -1,2 +1,3 @@
-# ultra-iot-platform-3ter
-Automated issue comment bot repository
+# Ultra Iot Platform 3Ter
+
+Automated issue comment bot repository.
